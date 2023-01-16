@@ -1,0 +1,1 @@
+Um simples exercício a qual o objetivo é fazer um alvo que você possa acertar, se apertar o lugar certo, vai aparecer uma mensagem falando que acertou o alvo.
